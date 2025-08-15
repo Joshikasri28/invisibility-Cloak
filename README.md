@@ -14,10 +14,10 @@ This project uses **Python + OpenCV** to create a **real-time invisibility effec
 - **VS Code** – Development environment
 ---
 ## 📚 Skills Learned
---**Real-time computer vision with OpenCV**
---**Color masking & segmentation**
---**Image blending techniques**
---**Debugging & parameter tuning**
+-**Real-time computer vision with OpenCV**
+-**Color masking & segmentation**
+-**Image blending techniques**
+-**Debugging & parameter tuning**
 
 ---
 📌 Notes
