@@ -20,10 +20,8 @@ This project uses **Python + OpenCV** to create a **real-time invisibility effec
 - **Debugging & parameter tuning**
 
 ---
-📌 Notes
+## 📌 Notes
 
-Works best with bright blue cloaks.
-
-Avoid wearing other blue clothes or having blue in the background.
-
-Good lighting improves detection accuracy.
+- Works best with bright blue cloaks.
+- Avoid wearing other blue clothes or having blue in the background.
+- Good lighting improves detection accuracy.
