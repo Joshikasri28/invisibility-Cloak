@@ -6,15 +6,27 @@ This project uses **Python + OpenCV** to create a **real-time invisibility effec
 
 ---
 
-## 🚀 Demo
-When you wear a blue cloak, the program detects it and replaces it with the static background, making it look like you’ve vanished.
-
----
-
 ## 🛠 Tech Stack
 - **Python** – Core programming language
 - **OpenCV** – Real-time video processing
 - **NumPy** – Fast array operations
 - **HSV Color Detection** – Cloak masking
 - **VS Code** – Development environment
+---
+📚 Skills Learned
 
+Real-time computer vision with OpenCV
+
+Color masking & segmentation
+
+Image blending techniques
+
+Debugging & parameter tuning
+---
+📌 Notes
+
+Works best with bright blue cloaks.
+
+Avoid wearing other blue clothes or having blue in the background.
+
+Good lighting improves detection accuracy.
